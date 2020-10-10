@@ -1,0 +1,7 @@
+
+{
+    "design_drawing_number":[
+        "^\\d{5}\\-\\d\\.\\d$"
+    ],
+    "page":1
+}

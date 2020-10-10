@@ -1,0 +1,59 @@
+[
+    {
+        "name":"design_drawing_number",
+        "patterns":[
+            "^\\d{5}\\-\\d\\.\\d$"
+        ],
+        "page":1
+    },
+    {
+        "name":"Unit_code",
+        "patterns":[
+            "PRODUCT ?# ?\\d{3}(\\.\\d)?$"
+        ],
+        "page":1
+    },
+    {
+        "name":"Dimentions",
+        "patterns":[
+
+        ],
+        "page":1
+    },
+    {
+        "name":"building_code",
+        "patterns":[
+
+        ],
+        "page":1
+    },
+    {
+        "name":"location",
+        "patterns":[
+
+        ],
+        "page":1
+    },
+    {
+        "name":"date",
+        "patterns":[
+
+        ],
+        "page":1
+    },
+    {
+        "name":"mounting_type",
+        "patterns":[
+
+        ],
+        "page":3
+    },
+    {
+        "name":"footing_type",
+        "patterns":[
+
+        ],
+        "page":3
+    }
+
+]

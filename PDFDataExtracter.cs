@@ -8,7 +8,8 @@ using System.Threading.Tasks;
 
 namespace Pdfparser
 {
-    public static class DDPdftxt
+    ///
+    public static class PDFDataExtracter
     {   
         /// <summary>
         /// Get Dictionary (pageNumber,Page text as list of lines)
